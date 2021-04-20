@@ -10,7 +10,7 @@ Hola soy Josue Ysai Martinez Morales
 
 🛠  Skils
 
-Java  C#  Xamarin  dart  Flutter  JavaScript  HTML  CSS  Git  GitHub  Visual Studio Code  android  Photoshop 
+Java  C#  Clojure  PostgreSQL MYSql  JavaScript  HTML  CSS  Git  GitHub  Visual Studio Code  android  Photoshop Python
 
 🤝🏻  Contacto
 
