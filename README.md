@@ -1,4 +1,4 @@
-hola soy Josue Ysai Martinez Morales
+Hola soy Josue Ysai Martinez Morales
 
  Sobre mi
  
