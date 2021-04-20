@@ -6,7 +6,7 @@ Hola soy Josue Ysai Martinez Morales
 🎓  Actualmente estudio Ingeniería en Sistemas Computacionales en el Instituto Tecnológico De Mexico campus Oaxaca.
 ✍️  En mi tiempo libre me encanta desarollar APPs, programas, desarrollar mi logica y explorar las nuevas tendencias de la programación.
 ✉️  Me puedes contactar a mi correo y te responderé lo más rápido posible.
-📄  Puedes mirar mi perfil laboral en 
+📄  Puedes mirar mi perfil
 
 🛠  Skils
 
