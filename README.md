@@ -20,7 +20,7 @@ Java  C#  Clojure  PostgreSQL MYSql  JavaScript  HTML  CSS  Git  GitHub  Visual 
 
   www.linkedin.com/in/josué-ysai-martinez-morales-0a5a90200
   
-  zunecks@gmail.com
+  josueysaimartinez@gmail.com
   
   https://www.facebook.com/SkrOzer/
 
